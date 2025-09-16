@@ -7,7 +7,7 @@
 - City: Tashkumyr, Kyrgyzstan
 
 ## About Me
-My name is Fatima.I am a 3rd-year student at Tash-Kumyr Regional College, studying programming. In the future, I want to become a Front-End Developer. I actively learn new technologies and strive to develop in the IT field.
+My name is Fatima.Surname is Bakasova.I am a 3rd-year student at Tash-Kumyr Regional College, studying programming. In the future, I want to become a Front-End Developer. I actively learn new technologies and strive to develop in the IT field.
 
 ## Skills
 - HTML, CSS, basic JavaScript  
