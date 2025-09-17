@@ -1,8 +1,21 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #dfb4c5; /* нежно-розовый фон */
+    background-color: #ffe6f0; /* нежно-розовый фон */
     color: #333;
+    padding: 20px;
 }
+
 h1 {
     text-align: center;
+    color: #b34766;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #444;
+}
+
+a {
+    color: #b34766;
+    text-decoration: none;
 }
