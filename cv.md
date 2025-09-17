@@ -18,7 +18,7 @@ My name is Fatima.Surname is Bakasova.I am a 3rd-year student at Tash-Kumyr Regi
 - Russian — intermediate
 
 ## Education
-- *Tash-Kumyr Regional College*, Major: Programming (2023 — present)
+- *Tash-Kumyr Regional College*, Major: Programming 
 
 ## Projects and Experience
 - Creating educational web pages using HTML and CSS  
